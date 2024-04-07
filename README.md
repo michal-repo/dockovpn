@@ -14,8 +14,9 @@ Once image is built and container started you can download client configuration:
 
 ## Connect from iOS (iPhone or iPad):
 
-Install **[OpenVPN Connect](https://apps.apple.com/pl/app/openvpn-connect-openvpn-app/id590379981)** app.
-Copy your **client.ovpn** file to device, from **Files** app share it to **OpenVPN Connect** app. Follow in app steps to create new profile.
+- Install **[OpenVPN Connect](https://apps.apple.com/pl/app/openvpn-connect-openvpn-app/id590379981)** app.
+- Copy your **client.ovpn** file to device, from **Files** app share it to **OpenVPN Connect** app.
+- Follow in app steps to create new profile.
 
 
 ### Shortcut to turn VPN on/off
